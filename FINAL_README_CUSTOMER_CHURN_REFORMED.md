@@ -12,7 +12,6 @@ This project develops a deep learning–based customer churn prediction system d
 It leverages:
 - Recurrent Neural Networks (RNNs)
 - Long Short-Term Memory (LSTM) architectures
-
 to analyze sequential user behavior and transactional patterns to predict churn risk early.
 
 This project demonstrates my ability to:
